@@ -1,6 +1,6 @@
 *start
 
-[title name="走るか寝るかするメロス"]
+[title name="音速を超えて走るメロス"]
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
@@ -16,18 +16,20 @@
 ああ、何もかも、ばかばかしい。私は、醜い裏切り者だ。どうとも、勝手にするがよい。やんぬる哉。[l][r]
 メロスは...[l][r]
 
-[link target=*tag_sleep] →寝る [endlink][r]
+[link target=*tag_runfirst] →速く走る [endlink][r]
 [link target=*tag_run] →走る [endlink][r]
 [s]
 
-*tag_sleep
+*tag_runfirst
 
 [cm]
 
-[bg storage=sleep.jpg time=500]
+[bg storage=gahag-0011641036-1.jpg time=500]
 
-メロスは死んだように深く眠った。[l][r]
-勇者は、ひどく赤面した。[r]
+メロスは走った。[l][r]
+野原で酒宴の、その宴席の真っ只中を駆け抜け、酒宴の人たちを仰天させ、犬を蹴り飛ばし、小川を飛び越え、少しずつ沈んでいく太陽の、十倍も早く走った。[l][r]
+......。[l][r]
+メロスの起こす暴風で、街は壊滅した。[r]
 
 【 BAD END 】[l][cm]
 
