@@ -5,7 +5,7 @@
 [wait time=200]
 [freeimage layer="base"]
 
-「走るか寝るかするメロス」[l][r]
+「音速を超えて走る「メロス」[l][r]
 
 メロスは激怒した。[l][r]
 
@@ -29,11 +29,22 @@
 メロスは走った。[l][r]
 野原で酒宴の、その宴席の真っ只中を駆け抜け、酒宴の人たちを仰天させ、犬を蹴り飛ばし、小川を飛び越え、少しずつ沈んでいく太陽の、十倍も早く走った。[l][r]
 ......。[l][r]
-メロスの起こす暴風で、街は壊滅した。[r]
+メロスの起こす暴風で、街は壊滅した。[l][r]
 
-【 BAD END 】[l][cm]
+[link target=*tag_check] →検証する [endlink][r]
+[link target=*tag_start] →ゲームを終了する [endlink][r]
+[s]
+
+*tag_check
+[bg storage=2e4bdc1ea6bb9ad3f570d30a86e00743_t.jpg time=500]
+
+メロスは自転速度よりも速く走ったことになる。[l][r]
+その速度は...[l][r]
+時速１万3000キロメートル！[l][cm]
 
 [jump target=*start]
+
+
 
 *tag_run
 
